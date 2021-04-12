@@ -1,0 +1,85 @@
+body
+{
+background-image: url(Images/pay.png);
+background-size: cover;
+background-attachment: fixed;
+
+}
+.inp1
+{
+  margin-top: -50px;
+  border-radius: 6px;
+  width: 445px;
+}
+.inp2
+{
+  border-radius: 6px;
+  width: 245px;
+}
+.inp3
+{
+  width: 80px;
+  border-radius: 6px;
+}
+.inp4
+{
+  width: 200px;
+  border-radius: 6px;
+}
+.inp5
+{
+  width: 300px;
+
+  border-radius: 6px;
+}
+.inp6
+{
+
+  border-radius: 6px;
+}
+.had1
+{
+  margin: 0;
+}
+.had2
+{
+  margin: 0;
+  font-size: 20px;
+}
+.had3
+{
+  font-size: 40px;
+  margin-left: 40px
+}
+.div1
+{
+  margin-left: 420px;
+  margin-top: 50px;
+  border: 1px solid;
+  margin-right: 360px;
+  height: 650px;
+  background-color: black;
+  opacity: 0.8;
+}
+.div2
+{
+ margin-top: 50px;
+ margin-left:  100px;
+ margin-right: 100px;
+}
+.sel
+{
+  width: 50px;
+}
+.btn
+{
+  margin-left: 120px;
+  border-radius: 7px;
+  width: 120px;
+  height: 30px;
+}
+button:hover
+{
+  background-color: #060930;
+  color: white;
+}

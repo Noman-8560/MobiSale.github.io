@@ -1,0 +1,77 @@
+body
+{
+
+    background-image: url(Images/cover.jpg);
+    background-attachment:fixed;
+    background-position:center;
+    background-size: cover;
+    height: 400px;
+    margin-top:50px;
+
+}
+.img1
+{
+  border-radius: 5px;
+  margin-left: 20px;
+}
+.had
+{
+  font-size: 40px;
+  margin-left: 450px;
+}
+.had1
+{
+  margin-top: 5px;
+  margin-left: 100px;
+}
+.had2
+{
+    margin-top: -5px;
+    margin-left: 100px;
+}
+.btn
+{
+  margin-left: 100px;
+  border-radius: 5px;
+  width: 100px;
+  height: 30px;
+}
+.tab
+{
+  margin-right: 100;
+  margin-bottom: 100px
+  margin-left: 100px;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.hr1
+{
+  border-style: none;
+  border-color: #222831;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 15%;
+}
+.hr2
+{
+  border-style: none;
+  border-color: #222831;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 15%;
+}
+.hr3
+{
+  border-style: none;
+  border-color: #222831;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 15%;
+}
+.hr4
+{
+  border-style: none;
+  border-color: #222831;
+  border-top-style: dotted;
+  border-width: 15px;
+  width: 15%;
+}
